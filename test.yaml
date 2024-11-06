@@ -11,4 +11,4 @@ Resources:
       InstanceTenancy: default
       Tags:
         - Key: Name
-          Value: test-vpc
+          Value: test-vpc-1
